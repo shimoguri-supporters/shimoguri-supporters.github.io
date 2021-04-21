@@ -1,26 +1,20 @@
-title: Hello, world! I'm David Freeman
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-site-twitter: #if your site has a twitter account, enter it here
+title: 下栗応援サークル
+description: 下栗の里 (長野県飯田市) で農作業や交流活動を行っています。
+permalink: 'posts/:year/:month/:day/:title'
 
 # Author Settings
 author: 下栗応援サークル
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+author-img: village_shimoguri.jpg
+about-author: 　下栗の里は、南信州の秘境・遠山郷にある集落です。<br>　大自然に囲まれて農作業やイベントを楽しみながら、日本の未来や人生の未来を考えましょう！
 social-facebook: shimoguri.ml
-social-github: shimoguri-supporters # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-instagram: shimoguri.ml
+social-github: shimoguri-supporters
 
 # Disqus
-discus-identifier: shimoguri # add your discus identifier
+discus-identifier: shimoguri
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-23493957-5
 
 # Build Settings
 markdown: kramdown
