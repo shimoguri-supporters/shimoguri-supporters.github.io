@@ -1,6 +1,6 @@
 ---
 layout: post
-title: お茶の整枝
+title: お茶の剪定
 date: 2020-03-21 00:00:00 +0900
 description: お茶畑へ初陣。お茶の木を刈り揃えました。新芽がたくさん出るように、そして芽を摘みやすいように...
 img: 2020-03-21-triming_tea_trees/triming_tea_trees.jpg
