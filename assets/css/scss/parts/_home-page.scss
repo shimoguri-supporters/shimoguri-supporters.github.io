@@ -63,6 +63,24 @@
       height: 7px;
     }
   }
+  .shop {
+    font-size: 14px;
+    font-weight: 500;
+    background: #f3f8ee;
+    color: black;
+    display: block;
+    border: double 3px rgb(132, 148, 129);
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 1px 1px 3px gray;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    transition: box-shadow 0.25s, background-color 0.25s;
+    &:hover {
+      box-shadow: 3px 3px 5px gray;
+      background: #eaf1e6;
+    }
+  }
 }
 .content-box {
   padding: 20px;
