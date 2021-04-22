@@ -1458,6 +1458,10 @@ a.newer-posts:hover {
             border-radius: 100%;
     margin-bottom: 10px;
   }
+  .about .shop {
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
   .content-box {
     padding: 20px 10px;
     display: -webkit-box;
