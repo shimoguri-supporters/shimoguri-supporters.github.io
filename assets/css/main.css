@@ -1011,7 +1011,7 @@ table tfoot td {
   font-weight: 500;
   background: #f3f8ee;
   color: black;
-  display: block;
+  display: inline-block;
   border: double 3px #849481;
   -webkit-border-radius: 10px;
           border-radius: 10px;
@@ -1020,6 +1020,8 @@ table tfoot td {
           box-shadow: 1px 1px 3px gray;
   padding-top: 3px;
   padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
   -webkit-transition: background-color 0.25s, -webkit-box-shadow 0.25s;
   transition: background-color 0.25s, -webkit-box-shadow 0.25s;
   -o-transition: box-shadow 0.25s, background-color 0.25s;
