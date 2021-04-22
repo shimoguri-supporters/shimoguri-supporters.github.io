@@ -2,7 +2,7 @@
 layout: post
 title: お茶の整枝
 date: 2021-03-30 00:00:00 +0900
-description: 昨年に引き続き、お茶。お茶の木を刈り揃えました。新芽がたくさん出るように、そして芽を摘みやすいように...
+description: 今年も昨年に引き続き、お茶作りをさせていただきます。まずは整枝作業。お茶摘み後に伸び放題となった枝を...
 img: 2021-03-30-triming_tea_trees/triming_tea_trees.jpg
 tags: [日本茶]
 ---
