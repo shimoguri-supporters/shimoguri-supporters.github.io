@@ -1466,7 +1466,7 @@ a.newer-posts:hover {
     max-width: 480px;
     margin: 10px auto auto;
   }
-  .about img {
+  .about .cover-author-image img {
     width: 100px;
     height: 100px;
     -webkit-border-radius: 100%;
