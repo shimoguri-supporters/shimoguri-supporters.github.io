@@ -1529,8 +1529,3 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
-
-.post .post-content p a {
-  text-decoration: inherit;
-  color: inherit;
-}
