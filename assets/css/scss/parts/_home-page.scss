@@ -188,6 +188,7 @@ footer {
   .post-content {
     padding: 1rem;
     width: 70%;
+    position: relative;
     .post-date,
     .post-words {
       font-size: 12px;
@@ -200,6 +201,14 @@ footer {
         // font-family: 'PT Serif', serif;
         text-decoration: none;
         color: $dark-blue;
+        &::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+        }
       }
     }
     p {

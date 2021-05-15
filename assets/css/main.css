@@ -1181,6 +1181,7 @@ footer .copyright {
 .post .post-content {
   padding: 1rem;
   width: 70%;
+  position: relative;
 }
 
 .post .post-content .post-date,
@@ -1197,6 +1198,15 @@ footer .copyright {
 .post .post-content .post-title a {
   text-decoration: none;
   color: #263959;
+}
+
+.post .post-content .post-title a::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 .post .post-content p {
